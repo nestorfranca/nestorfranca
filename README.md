@@ -32,9 +32,10 @@ Sou estudante/profissional de Engenharia da Computação com experiência em:
 
 ## 🧩 Hardware Digital & FPGA
 
-![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge&logoColor=white)
+![Intel FPGA](https://img.shields.io/badge/Intel%20FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ---
 
