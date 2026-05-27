@@ -30,6 +30,14 @@ Sou estudante/profissional de Engenharia da Computação com experiência em:
 
 ---
 
+## 🧩 Hardware Digital & FPGA
+
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge&logoColor=white)
+
+---
+
 ## ⚙️ Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
