@@ -39,6 +39,14 @@ Sou estudante/profissional de Engenharia da Computação com experiência em:
 
 ---
 
+## 🗄️ Bancos de Dados & Backend Services
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
 ## ☁️ Cloud, DevOps & Automação
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
