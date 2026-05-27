@@ -68,10 +68,11 @@ Sou estudante/profissional de Engenharia da Computação com experiência em:
 ## 🔌 Sistemas Embarcados & IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
 ---
 
 ## 🎮 Desenvolvimento de Jogos & Simulação
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 
